@@ -1,0 +1,20 @@
+DOHGEN TECH — WEB CINEMATOGRÁFICA EN ESPAÑOL
+
+Archivos principales:
+- index.html
+- styles.css
+- script.js
+- assets/dohgen-tech-logo.png
+- apps/cataluna/soporte.html
+- apps/cataluna/privacidad.html
+- apps/cataluna/eliminar-cuenta.html
+
+PARA PUBLICAR EN GITHUB PAGES:
+1. Descomprimir este ZIP.
+2. Subir TODO el contenido interno a la raíz del repositorio Dohgen-Tech.github.io.
+3. En GitHub: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+IMPORTANTE:
+- Antes de enviar Cataluña a Apple, reemplazar en las páginas legales los avisos de contacto pendiente por el correo oficial de soporte.
+
+Correo de soporte configurado: gennagrauagustin@gmail.com
